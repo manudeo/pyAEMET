@@ -38,7 +38,7 @@ python = ">=3.8,<4.0"
 requests = "^2.24.0"
 numpy = "^1.19.0"
 matplotlib = "^3.2.2"
-pandas 
+pandas ="<3"
 geocoder = "^1.38.0"
 folium = "^0.11.0"
 tqdm = "^4.46.1"
